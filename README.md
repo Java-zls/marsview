@@ -34,6 +34,9 @@ Marsview 是一款中后台方向的低代码可视化搭建平台，开发者�
 
 **线上地址：[https://www.marsview.com.cn/](https://www.marsview.com.cn/)**
 
+下周四直播介绍AI新产品：![6933d5f98c9c4a33eab7347d879c2fb2](https://github.com/user-attachments/assets/1fee70c9-d9be-4379-8ec6-7811f615a217)
+
+
 ## 对比
 
 | 介绍           | 开源版本     | 专业版本                                      |
